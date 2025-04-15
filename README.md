@@ -1,4 +1,4 @@
-# Hi there, I'm Jessy — aka jess-tech-dev!
+# Hi there, I'm Jessy — jess-tech-dev!
 
 **Fullstack Developer | Web Enthusiast | Problem Solver**
 
